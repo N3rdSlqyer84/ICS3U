@@ -1,3 +1,7 @@
+//Recreation of the popular Connect Four game
+//Built in with an AI
+//Registers different scores for players in a corresponding file
+
 import java.util.*;
 import java.io.*;
 
